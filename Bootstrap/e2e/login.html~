@@ -19,7 +19,7 @@
   </div>
 
 <div class="modal-body">
-    <form action="home.html">
+    <form>
       <label>Email</label>
       <input type="email" class="span4"/></br>
 
